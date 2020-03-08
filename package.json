@@ -1,0 +1,22 @@
+{
+  "name": "whats-for-lunch",
+  "version": "0.1.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomasbommel/electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomasbommel/electron/issues"
+  },
+  "homepage": "https://github.com/thomasbommel/electron#readme",
+  "devDependencies": {
+    "electron": "^8.1.0"
+  }
+}
