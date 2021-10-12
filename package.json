@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/thomasbommel/electron#readme",
   "devDependencies": {
-    "electron": "^8.1.0"
+    "electron": "^11.5.0"
   }
 }
